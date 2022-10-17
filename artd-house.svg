@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="cm"
      showgrid="true"
-     inkscape:zoom="1.1569609"
-     inkscape:cx="619.29491"
-     inkscape:cy="599.84741"
+     inkscape:zoom="0.57848045"
+     inkscape:cx="694.05976"
+     inkscape:cy="606.76208"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
@@ -979,7 +979,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="measurement"
-     style="display:inline"><path
+     style="display:none"><path
        style="opacity:0.9;fill:#ff0000;fill-opacity:0.992157;stroke:#9e523b;stroke-width:0.25;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.988235"
        d="m 108.21791,53.203082 h -8.00409"
        id="path37873"
@@ -1105,7 +1105,7 @@
        sodipodi:nodetypes="cc"
        inkscape:label="dist_wardrobe" /><path
        style="display:inline;opacity:0.9;fill:#de8787;fill-opacity:0.992157;stroke:#9e523a;stroke-width:0.25;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.890196"
-       d="m 93.476311,90.08228 0,-2.359465"
+       d="M 93.476311,90.08228 V 87.722815"
        id="path34807-2-8-6-8-5-1-9-2-7"
        inkscape:path-effect="#path-effect34809-2-5-1-5-8-2-4-3-9-3"
        inkscape:original-d="m 93.476311,90.08228 c -0.47728,-0.719821 -0.84759,-1.692638 0,-2.359465"
